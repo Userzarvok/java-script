@@ -1,21 +1,25 @@
-MIT License
+Copyright (c) 2026 Pedro (https://github.com/Userzarvok)
+Todos os direitos reservados.
 
-Copyright (c) 2026 pedrohenriquededaf-star
+Este repositório é público para que qualquer pessoa possa ver o projeto e estudar
+o código. Isso NÃO dá permissão para usar o código ou o conteúdo em outro lugar.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+É permitido:
+  - ver o código e o site publicado;
+  - usar o site publicado normalmente;
+  - citar pequenos trechos para comentar ou estudar, com link para este repositório.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Sem autorização por escrito do autor, é proibido:
+  - copiar este código ou este conteúdo, no todo ou em parte, para outros projetos,
+    sites ou repositórios;
+  - modificar, redistribuir, sublicenciar, vender ou publicar este código ou versões
+    dele;
+  - apresentar este trabalho, ou algo derivado dele, como se fosse seu.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Os Termos de Serviço do GitHub permitem que outras pessoas vejam este repositório e
+criem forks dele dentro do GitHub. Isso não dá a ninguém o direito de usar o código
+fora do GitHub nem de republicá-lo.
+
+Para pedir autorização, abra uma issue neste repositório.
+
+O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM GARANTIA DE NENHUM TIPO.
